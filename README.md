@@ -4,4 +4,5 @@ To fit a Bernoilli Naïve Bayes model to the Fashion MNIST dataset. Using the mo
 ### Packages Used: 
 NumPy, matplotlib, sklearn, os, gzip, struct, array, urlretrieve
 ### Approach: 
-#### 1. 
+#### 1. Data Representation: 
+Each image is represented by a binary vector \( \mathbf{x}(i) \in \{0,1\}^D \), where 0 and 1 represent white and black pixels respectively, and \( D=784 \). Each class label \( c(i) \) is represented by a \( K=10 \)-dimensional one-hot vector.
