@@ -8,8 +8,4 @@ The objective of this project is to implement and visualize a variant of the Tru
 - Optimization techniques: Hamiltonian Monte Carlo and Stochastic Variational Inference
 - Visualization: Contour plots to represent joint distributions and posterior approximations
 
-## Components
-1. Posterior Analysis
-* 
-* 
-3. 
+
